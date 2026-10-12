@@ -37,17 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ncrtaha&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ncrtaha&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
 <div align="center">
 
 💬 *« Keep coding, keep building, keep fixing! »*
