@@ -11,11 +11,10 @@
 ## 🚀 À propos de moi
 
 * 🎓 **Étudiant en Développement Informatique** @ EGIM (Meknes)
-* 📜 **Certifié en:** Développement Web & Réparation Téléphonique
-* 🛠️ **Expérience Pratique:**
-  * 🏊‍♂️ Participant à la **Piscine 1337** & Sélection **YouCode**
-  * 📹 **Projets:** Systèmes de détection de mouvement (OpenCV / Python), Intégrations API (WhatsApp / Green API), Infrastructure Réseau & Surveillance CCTV/RTSP
-  * 💼 **Projet Fûtur:** Création d'une entreprise **SARL** spécialisée en Services IT, Vente & Réparation PC/Mobile
+* 💻 **Passionné par le Développement Logiciel:** Création d'applications, scripts d'automatisation, intégrations API et systèmes de surveillance (Python/OpenCV, JavaScript, WSL).
+* 📱 **Réparation & Maintenance:** Certifié en réparation téléphonique et passionné par le hardware et l'électronique.
+* 🚗 **Diagnostics Automobile:** Passionné par la mécanique automobile, les diagnostics électroniques DIY et la maintenance de voitures.
+* 💼 **Projet Fûtur:** Création d'une entreprise **SARL** spécialisée en Services IT, Vente & Réparation PC/Mobile.
 
 ---
 
@@ -46,12 +45,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 
 </div>
-
----
-
-## 🔧 Centre d'intérêt & Mechanics 🏎️
-
-* 🚗 **Automotive Enthusiast:** Passionné par la mécanique automobile et la maintenance de voitures (DIY Diagnostics, Restauration & Repairs).
 
 ---
 
