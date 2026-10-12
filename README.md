@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salam, Ana Taha Nciri!
+# 👋 Hello I'm Taha Nciri!
 
 ### 👨‍💻 Software Developer & Tech Enthusiast from Meknes, Morocco 🇲🇦
 
